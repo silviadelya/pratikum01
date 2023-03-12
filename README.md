@@ -1,9 +1,10 @@
 # Pratikum 1 (Pertemuan 2)
 
-Membuat layout web sederhana menggunakan HTML dan CSS.
+Silvia Delya Heryani
+Teknik Informatika
 
 ![Gambar 1](gambar/3.png)
 
-Screenshot Hasil :
+Berikut screenshot hasil membuat layout web sederhana :
 
 ![Gambar 2](gambar/2.png)
