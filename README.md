@@ -1,7 +1,7 @@
 # Pratikum 1 (Pertemuan 2)
 
-Silvia Delya Heryani\
-Teknik Informatika\
+Nama   : Silvia Delya Heryani\
+Prodi  : Teknik Informatika
 
 ![Gambar 1](gambar/3.png)
 
