@@ -4,6 +4,6 @@ Membuat layout web sederhana menggunakan HTML dan CSS.
 
 ![Gambar 1](gambar/1.png)
 
-Hasil :
+Screenshot Hasil :
 
 ![Gambar 2](gambar/2.png)
